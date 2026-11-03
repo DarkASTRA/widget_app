@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1e293b</color>
+    <color name="primary_variant">#0f172a</color>
+    <color name="on_primary">#ffffff</color>
+    <color name="secondary">#3b82f6</color>
+    <color name="secondary_variant">#2563eb</color>
+    <color name="on_secondary">#ffffff</color>
+    <color name="background">#f8fafc</color>
+    <color name="surface">#ffffff</color>
+    <color name="surface_variant">#f1f5f9</color>
+    <color name="on_surface">#0f172a</color>
+    <color name="on_surface_muted">#64748b</color>
+
+    <color name="widget_dark_bg">#18181b</color>
+    <color name="widget_dark_text">#f4f4f5</color>
+    <color name="widget_light_bg">#ffffff</color>
+    <color name="widget_light_text">#18181b</color>
+    <color name="widget_oled_bg">#000000</color>
+    <color name="widget_oled_text">#ffffff</color>
+    <color name="widget_warm_bg">#fbf0d9</color>
+    <color name="widget_warm_text">#2d2319</color>
+    <color name="widget_navy_bg">#0f172a</color>
+    <color name="widget_navy_text">#e2e8f0</color>
+    <color name="widget_forest_bg">#143828</color>
+    <color name="widget_forest_text">#e6f4ea</color>
+    <color name="widget_charcoal_bg">#27272a</color>
+    <color name="outline">#cbd5e1</color>
+</resources>
